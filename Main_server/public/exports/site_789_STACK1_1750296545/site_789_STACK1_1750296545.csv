@@ -1,0 +1,4 @@
+site_789,site_789,MEE_OUTLET,analyzer_436,parameter_95,Flow,333,unit_12,U,333,1750296545,0,0
+site_789,site_789,MEE_INLET,analyzer_436,parameter_95,Flow,0,unit_12,U,0,1750296545,0,0
+site_789,site_789,ETP_INLET,analyzer_436,parameter_95,Flow,23305,unit_12,U,23305,1750296545,0,0
+site_789,site_789,ETP_OUTLET,analyzer_436,parameter_95,Flow,21467,unit_12,U,21467,1750296545,0,0
